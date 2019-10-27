@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Aprendiendo React v7",
+      "price": "16.4"
+    },
+    {
+      "id": 2,
+      "name": "Aprendiendo Redux v2",
+      "price": "18.4"
+    },
+    {
+      "name": "Bases de pp",
+      "price": "34",
+      "id": 3
+    },
+    {
+      "name": "Hola",
+      "price": "78.9",
+      "id": 4
+    }
+  ]
+}
